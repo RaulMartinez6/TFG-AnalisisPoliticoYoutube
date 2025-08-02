@@ -1,0 +1,201 @@
+      palabra    Score Ideologia_dominante  Derecha  Derecha moderada  Izquierda  Izquierda moderada
+     derechos 0.034403           Izquierda    572.0             580.0     3257.0              1239.0
+  bienvenidas 0.033504           Izquierda      0.0               0.0      604.0                67.0
+     veámoslo 0.033264             Derecha    497.0               0.0        0.0                 0.0
+      derecha 0.030981           Izquierda    781.0             434.0     2912.0              1244.0
+           si 0.029839             Derecha  19406.0           12878.0    12724.0             10163.0
+          vox 0.024478             Derecha   3665.0             506.0     1637.0               512.0
+        canal 0.024326           Izquierda    564.0             182.0      954.0               300.0
+      podemos 0.022574           Izquierda   2988.0            1887.0     5295.0              1920.0
+    genocidio 0.022304           Izquierda     63.0              20.0      950.0                22.0
+        gente 0.020626             Derecha   6482.0            3259.0     5667.0              3040.0
+   compañeras 0.020617           Izquierda     52.0             160.0     1123.0               972.0
+         onda 0.020586  Izquierda moderada     24.0              27.0       27.0               638.0
+        decir 0.020495             Derecha   8574.0            6039.0     5993.0              3986.0
+      tablero 0.019630           Izquierda     29.0              24.0      848.0                27.0
+      gracias 0.018996           Izquierda   3081.0            4432.0     6022.0              4640.0
+        todas 0.018976           Izquierda   2628.0            2937.0     5203.0              3317.0
+    palestina 0.018467           Izquierda     74.0              32.0      959.0                76.0
+   acompañaré 0.017710           Izquierda      0.0               0.0      230.0                 0.0
+         tipo 0.016877             Derecha   3423.0            1631.0     2077.0              1132.0
+        claro 0.016773             Derecha   6509.0            4104.0     3559.0              2878.0
+         país 0.016731           Izquierda   3410.0            4532.0     6427.0              5169.0
+    violencia 0.016636           Izquierda    538.0             358.0     1960.0               709.0
+   ciudadanía 0.016584           Izquierda    164.0             201.0     1004.0               649.0
+     sociales 0.016547           Izquierda   1077.0             576.0     1948.0               970.0
+       israel 0.016518           Izquierda    446.0             311.0     2173.0               184.0
+   periodista 0.016387           Izquierda    249.0             243.0      877.0               140.0
+          red 0.016385           Izquierda    371.0             250.0      975.0               250.0
+     política 0.016320           Izquierda   3240.0            3413.0     4712.0              2749.0
+       social 0.016258           Izquierda   1851.0             982.0     2577.0              1866.0
+      popular 0.016248    Derecha moderada   2943.0            4961.0     4574.0              2572.0
+      mujeres 0.016230           Izquierda   1159.0             903.0     3302.0              1723.0
+          hoy 0.015231           Izquierda   5092.0            6670.0     7789.0              7056.0
+        ayuso 0.015054           Izquierda    370.0             216.0     1448.0               248.0
+       dinero 0.015048             Derecha   3168.0            1552.0     1348.0               623.0
+         creo 0.014814           Izquierda   6201.0            5203.0     8928.0              5388.0
+          ley 0.014693           Izquierda   2504.0            2067.0     4319.0              1800.0
+     personas 0.014650           Izquierda   3425.0            2627.0     5021.0              3098.0
+        laura 0.014508           Izquierda      0.0              54.0      408.0                91.0
+    inflación 0.014378             Derecha   3065.0             348.0      208.0               120.0
+     vivienda 0.014354           Izquierda   1064.0            1059.0     2651.0               809.0
+     entonces 0.014285             Derecha   5852.0            3677.0     4161.0              2458.0
+        pablo 0.014071           Izquierda    635.0             420.0     1212.0               426.0
+   feministas 0.013959           Izquierda    109.0              48.0      649.0                66.0
+      sánchez 0.013378    Derecha moderada   5044.0            6237.0     3577.0              2371.0
+         días 0.013375           Izquierda   2464.0            3641.0     4150.0              3876.0
+       medios 0.013216           Izquierda   1514.0             992.0     2088.0               646.0
+     político 0.013214           Izquierda   1722.0            1260.0     2080.0               823.0
+    impuestos 0.013185             Derecha   2285.0            1132.0      516.0               353.0
+        bueno 0.013096             Derecha  10305.0           10152.0    10302.0              7110.0
+         mesa 0.012877           Izquierda    533.0             678.0     1539.0               636.0
+    coyuntura 0.012707           Izquierda     62.0               0.0      292.0                24.0
+         tema 0.012652             Derecha   1848.0            1072.0     1826.0               796.0
+      partido 0.012649    Derecha moderada   6709.0            9523.0     8500.0              8207.0
+         pues 0.012627             Derecha  16702.0           13823.0    11679.0             10037.0
+     diciendo 0.012553             Derecha   1693.0             874.0     1391.0               590.0
+  progresista 0.012505           Izquierda    121.0             136.0      664.0               531.0
+         hano 0.012492             Derecha    225.0               0.0        0.0                 0.0
+   compañeros 0.012464  Izquierda moderada    290.0             718.0     1243.0              1595.0
+    coalición 0.012446           Izquierda    404.0             291.0     1129.0               364.0
+      extrema 0.012402           Izquierda    324.0             210.0     1083.0               362.0
+        tipos 0.012399             Derecha   1935.0             236.0      151.0               119.0
+    izquierda 0.012377           Izquierda   1452.0             592.0     1686.0               649.0
+        damas 0.012241             Derecha    208.0               0.0        0.0                 0.0
+   hablaremos 0.012050           Izquierda    172.0              99.0      778.0               101.0
+     gobierno 0.012006    Derecha moderada   7915.0           11039.0    10349.0              9888.0
+   caballeros 0.011977             Derecha    228.0              20.0        0.0                 0.0
+         sara 0.011766           Izquierda      0.0              28.0      486.0                40.0
+    feminista 0.011616           Izquierda    151.0              82.0      740.0               281.0
+    compañera 0.011590           Izquierda     56.0             122.0      499.0               255.0
+        vamos 0.011555    Derecha moderada   6019.0            7160.0     7132.0              5189.0
+  socialistas 0.011420  Izquierda moderada    471.0             333.0      222.0              1536.0
+      derecho 0.011292           Izquierda   1143.0            1174.0     2131.0               892.0
+       hablar 0.011260           Izquierda   1968.0            2010.0     2885.0              1633.0
+      empezar 0.011234           Izquierda    743.0             731.0     1422.0               678.0
+        hacer 0.011192           Izquierda   5748.0            5271.0     6788.0              4920.0
+  básicamente 0.011157             Derecha    807.0             340.0      594.0               140.0
+    políticas 0.011096           Izquierda   1498.0            1004.0     2229.0              1293.0
+        puede 0.011008             Derecha   5859.0            4636.0     5161.0              3816.0
+        vídeo 0.010996             Derecha    991.0             279.0      714.0               238.0
+         hola 0.010914           Izquierda    350.0             439.0     1264.0               971.0
+    palestino 0.010877           Izquierda     39.0              24.0      500.0                51.0
+     libertad 0.010776             Derecha   2348.0            1278.0     1000.0               662.0
+        banco 0.010767             Derecha   1810.0             372.0      267.0               135.0
+       unidas 0.010748           Izquierda    187.0             101.0      626.0               182.0
+     víctimas 0.010658           Izquierda    331.0             405.0     1158.0               454.0
+   importante 0.010641           Izquierda   1616.0            2378.0     3043.0              2684.0
+         gaza 0.010629           Izquierda     95.0             137.0      904.0               246.0
+        poder 0.010625           Izquierda   3471.0            2438.0     3762.0              2146.0
+          tío 0.010607             Derecha   1471.0             213.0      218.0               159.0
+       guerra 0.010541           Izquierda   1248.0            1492.0     2785.0              1178.0
+   presidente 0.010518    Derecha moderada   3274.0            7071.0     3854.0              4875.0
+   violencias 0.010514           Izquierda      0.0               0.0      382.0                31.0
+       muchas 0.010508           Izquierda   3584.0            3075.0     4460.0              3247.0
+        irene 0.010452           Izquierda    183.0              96.0      621.0                91.0
+    empezamos 0.010445           Izquierda    272.0             296.0      790.0               267.0
+          ser 0.010363             Derecha   7809.0            6330.0     7327.0              5721.0
+      público 0.010344           Izquierda   1730.0            1109.0     1941.0              1017.0
+    españoles 0.010331    Derecha moderada   3046.0            3326.0     1311.0              1413.0
+       madrid 0.010242  Izquierda moderada   1953.0            3395.0     3765.0              3851.0
+       buenos 0.010195           Izquierda    956.0            1526.0     1867.0              1744.0
+         dice 0.010193             Derecha   3753.0            3239.0     3059.0              2770.0
+     programa 0.010169           Izquierda    986.0            1056.0     1721.0               899.0
+     machista 0.010128           Izquierda     66.0              51.0      503.0               155.0
+ trabajadoras 0.010116           Izquierda     75.0              79.0      517.0               222.0
+       diario 0.009869           Izquierda    564.0             351.0     1078.0               437.0
+     análisis 0.009856           Izquierda    298.0             316.0      790.0               176.0
+    feminismo 0.009823           Izquierda    221.0             123.0      908.0               241.0
+         caso 0.009804             Derecha   3837.0            3190.0     3664.0              2216.0
+           eh 0.009736    Derecha moderada  11260.0           15266.0    13702.0             11069.0
+    wolverine 0.009698             Derecha    156.0               0.0        0.0                 0.0
+       además 0.009671    Derecha moderada   3338.0            4413.0     4389.0              3165.0
+    migrantes 0.009659           Izquierda     39.0              76.0      549.0               108.0
+   democracia 0.009646           Izquierda    829.0             951.0     1713.0              1172.0
+      pública 0.009611           Izquierda   1621.0             873.0     1716.0               944.0
+       dentro 0.009556             Derecha   2568.0            1362.0     1526.0              1122.0
+    mediática 0.009495           Izquierda    105.0              38.0      353.0                35.0
+ ultraderecha 0.009468           Izquierda    290.0             132.0      715.0               444.0
+        ahora 0.009382             Derecha   7501.0            6185.0     6695.0              6129.0
+        lucha 0.009324           Izquierda    319.0             302.0      970.0               616.0
+        lgtbi 0.009321           Izquierda     31.0               0.0      311.0                49.0
+    climática 0.009303           Izquierda     42.0              20.0      368.0                79.0
+        mismo 0.009232             Derecha   4369.0            3331.0     3613.0              2611.0
+          oye 0.009196             Derecha   1516.0             826.0      484.0               435.0
+  inmigración 0.009093             Derecha   1098.0             329.0      245.0               253.0
+    comunidad 0.009084           Izquierda   1010.0            1337.0     2123.0              1590.0
+    machistas 0.009005           Izquierda     21.0               0.0      283.0                47.0
+       ilegal 0.008985             Derecha    765.0             279.0      293.0                92.0
+        sumar 0.008978           Izquierda    413.0             390.0     1504.0               461.0
+       quería 0.008933           Izquierda    688.0             734.0     1465.0               734.0
+      precios 0.008926             Derecha   1655.0             428.0      629.0               203.0
+     federico 0.008920    Derecha moderada     23.0             364.0       34.0                27.0
+   alquileres 0.008854           Izquierda    189.0              29.0      400.0                59.0
+    acompañan 0.008827           Izquierda     47.0             135.0      345.0               147.0
+         sino 0.008825             Derecha   3174.0            2467.0     2972.0              1942.0
+       españa 0.008769    Derecha moderada   8619.0            8988.0     7304.0              7314.0
+       precio 0.008761             Derecha   1869.0             540.0      588.0               300.0
+   movimiento 0.008739           Izquierda    302.0             268.0      871.0               231.0
+         cómo 0.008598             Derecha   4900.0            3919.0     4693.0              3338.0
+        parte 0.008556           Izquierda   4204.0            3597.0     4426.0              3150.0
+       crisis 0.008546           Izquierda    631.0             635.0     1504.0              1083.0
+         royo 0.008543           Izquierda      0.0               0.0      120.0                 0.0
+       debate 0.008534           Izquierda    789.0             667.0     1500.0               839.0
+      ejemplo 0.008531             Derecha   3371.0            2174.0     2645.0              1945.0
+   izquierdas 0.008522           Izquierda    331.0             107.0      557.0               142.0
+        clave 0.008460           Izquierda    321.0             493.0      910.0               355.0
+      primera 0.008375           Izquierda   1589.0            2279.0     2570.0              2296.0
+    activista 0.008366           Izquierda     28.0               0.0      240.0                20.0
+     derechas 0.008333           Izquierda    170.0              75.0      517.0               212.0
+internacional 0.008290           Izquierda    698.0             739.0     1516.0               797.0
+      interés 0.008249             Derecha   2294.0             708.0      531.0               459.0
+          box 0.008214             Derecha    832.0             216.0      460.0               177.0
+      embargo 0.008189             Derecha    999.0             728.0      950.0               385.0
+     judicial 0.008188           Izquierda    572.0             600.0     1335.0               367.0
+    monetaria 0.008185             Derecha    414.0              37.0        0.0                 0.0
+     justicia 0.008156           Izquierda    824.0             997.0     1513.0               919.0
+         cero 0.008153  Izquierda moderada    298.0             255.0      185.0               806.0
+      avances 0.008116           Izquierda     52.0              94.0      449.0               189.0
+      barroso 0.008115           Izquierda      0.0               0.0      372.0                 0.0
+     problema 0.008097             Derecha   2277.0            1689.0     1857.0              1009.0
+         años 0.008072           Izquierda   5925.0            5353.0     6171.0              5035.0
+     señorías 0.008068           Izquierda    133.0             277.0     1082.0               749.0
+    argentina 0.008012             Derecha   1144.0             160.0      547.0                97.0
+       pueblo 0.007989           Izquierda    964.0             809.0     1543.0               733.0
+        menos 0.007989             Derecha   4277.0            3223.0     2896.0              2830.0
+          ver 0.007989           Izquierda   4525.0            4087.0     4672.0              3333.0
+       parece 0.007978           Izquierda   2514.0            2481.0     3088.0              1868.0
+  legislatura 0.007930           Izquierda    265.0             436.0      884.0               330.0
+ comunicación 0.007897           Izquierda   1085.0             777.0     1393.0               566.0
+         aquí 0.007864             Derecha   7161.0            6511.0     7017.0              5982.0
+    mediático 0.007863           Izquierda    119.0              59.0      336.0                38.0
+      humanos 0.007803           Izquierda    299.0             226.0      715.0               286.0
+           va 0.007715             Derecha   8084.0            7302.0     6789.0              5907.0
+ bipartidismo 0.007696           Izquierda     61.0               0.0      248.0                 0.0
+          día 0.007674  Izquierda moderada   3809.0            5045.0     5002.0              5069.0
+       puedes 0.007645             Derecha   1263.0             547.0      532.0               518.0
+      edición 0.007616           Izquierda    167.0              97.0      326.0               125.0
+        niñas 0.007597           Izquierda     53.0              62.0      418.0               144.0
+      salario 0.007587             Derecha    977.0             413.0      544.0               528.0
+      espacio 0.007568           Izquierda    306.0             483.0      774.0               424.0
+  separatismo 0.007568             Derecha    421.0             103.0        0.0                27.0
+    solamente 0.007551           Izquierda    601.0             866.0     1286.0               747.0
+      incluso 0.007532             Derecha   2337.0            1546.0     1994.0              1320.0
+       bancos 0.007471             Derecha    805.0             116.0      166.0                49.0
+      dólares 0.007467             Derecha   1274.0             209.0       85.0                84.0
+      reforma 0.007453           Izquierda    585.0             251.0      757.0               272.0
+        ramón 0.007447             Derecha    528.0              64.0       64.0               137.0
+        luego 0.007444             Derecha   4564.0            3541.0     3297.0              2710.0
+      estadio 0.007421  Izquierda moderada     22.0              80.0       32.0               574.0
+        salud 0.007417  Izquierda moderada    290.0             527.0      924.0               936.0
+      medidas 0.007397           Izquierda    723.0             880.0     1556.0              1230.0
+         díaz 0.007393           Izquierda    766.0             619.0     1028.0               462.0
+      después 0.007358           Izquierda   2294.0            2843.0     3354.0              2627.0
+        armas 0.007355           Izquierda    123.0             269.0      617.0               113.0
+      trabajo 0.007329           Izquierda   1641.0            1513.0     2454.0              1765.0
+        pagar 0.007328             Derecha   1304.0             770.0      687.0               352.0
+   bienvenida 0.007320           Izquierda     81.0             203.0      433.0               291.0
+    realmente 0.007316             Derecha   1833.0            1057.0     1281.0               833.0
+     alquiler 0.007311           Izquierda    496.0             252.0      682.0               189.0
+          vez 0.007292           Izquierda   3901.0            3479.0     4148.0              3134.0
+          edu 0.007276  Izquierda moderada      0.0               0.0       23.0               309.0

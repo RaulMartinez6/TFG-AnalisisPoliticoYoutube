@@ -1,0 +1,48 @@
+Sin Cluster:
+                    precision    recall  f1-score   support
+
+           Derecha       0.87      0.91      0.89      1022
+  Derecha moderada       0.84      0.81      0.83      1023
+Izquierda moderada       0.85      0.84      0.85      1020
+         Izquierda       0.87      0.87      0.87       889
+
+          accuracy                           0.86      3954
+         macro avg       0.86      0.86      0.86      3954
+      weighted avg       0.86      0.86      0.86      3954
+
+Reporte de clasificación por Cluster tam 20:
+                    precision    recall  f1-score   support
+
+           Derecha       1.00      1.00      1.00        51
+  Derecha moderada       1.00      1.00      1.00        51
+Izquierda moderada       1.00      1.00      1.00        51
+         Izquierda       1.00      1.00      1.00        44
+
+          accuracy                           1.00       197
+         macro avg       1.00      1.00      1.00       197
+      weighted avg       1.00      1.00      1.00       197
+
+Reporte de clasificación por Cluster tam 10:
+                    precision    recall  f1-score   support
+
+           Derecha       1.00      1.00      1.00       102
+  Derecha moderada       1.00      1.00      1.00       102
+Izquierda moderada       1.00      1.00      1.00       102
+         Izquierda       1.00      1.00      1.00        89
+
+          accuracy                           1.00       395
+         macro avg       1.00      1.00      1.00       395
+      weighted avg       1.00      1.00      1.00       395
+
+
+Reporte de clasificación por Cluster tam 5:
+                    precision    recall  f1-score   support
+
+           Derecha       0.99      1.00      0.99       205
+  Derecha moderada       0.99      0.99      0.99       205
+Izquierda moderada       0.98      0.99      0.98       204
+         Izquierda       1.00      0.97      0.99       178
+
+          accuracy                           0.99       792
+         macro avg       0.99      0.99      0.99       792
+      weighted avg       0.99      0.99      0.99       792

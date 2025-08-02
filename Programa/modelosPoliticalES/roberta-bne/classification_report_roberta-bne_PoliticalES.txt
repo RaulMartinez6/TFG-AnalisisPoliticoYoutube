@@ -1,0 +1,23 @@
+Sin Cluster:
+                precision    recall  f1-score   support
+
+         right       0.39      0.28      0.33      5360
+moderate_right       0.42      0.46      0.44     12240
+ moderate_left       0.51      0.58      0.54     16800
+          left       0.43      0.34      0.38      9360
+
+      accuracy                           0.46     43760
+     macro avg       0.44      0.42      0.42     43760
+  weighted avg       0.45      0.46      0.45     43760
+  
+Reporte de clasificación por Cluster:
+                precision    recall  f1-score   support
+
+         right       0.93      0.37      0.53        67
+moderate_right       0.69      0.70      0.70       153
+ moderate_left       0.63      0.92      0.75       210
+          left       0.90      0.44      0.59       117
+
+      accuracy                           0.69       547
+     macro avg       0.79      0.61      0.64       547
+  weighted avg       0.74      0.69      0.67       547
