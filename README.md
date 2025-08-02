@@ -3,7 +3,7 @@
 **TFG - Grado en Ingeniería Informática – Universidad de Murcia**  
 **Autor:** Raúl Martínez Campos  
 **Tutor:** Rafael Valencia García  
-**Cotutor:** Ronghao Pan
+**Cotutor:** Ronghao Pan  
 **Fecha:** Julio de 2025
 
 Este trabajo aborda la detección automática de la ideología política en emisores digitales mediante el análisis de transcripciones de vídeos publicados en YouTube. Para ello, se ha construido un corpus original compuesto por más de 19.000 vídeos procedentes de 21 canales distintos, clasificados según su orientación ideológica en cuatro categorías: izquierda, izquierda moderada, derecha moderada y derecha. A partir de este conjunto de datos, se agruparon vídeos en clústeres ideológicos y se entrenaron diversos modelos de lenguaje preentrenados —como BETO, RoBERTa-BNE, DistilBERT y mBERT— para realizar la tarea de clasificación.
